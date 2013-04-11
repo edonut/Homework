@@ -1,12 +1,14 @@
-Tricorder:
-
+Tricorder Lab:
 Grove Sensor Unit?
 Beagle Board - Android/Linux
 Display?
-
 or 
-
 Sensor Unit
 Arduino
 Blue Tooth
 Android App/iOS App
+
+
+Image Processing Lab:
+Multiplex multi low res image sensors 
+

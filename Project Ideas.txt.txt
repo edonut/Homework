@@ -1,0 +1,12 @@
+Tricorder:
+
+Grove Sensor Unit?
+Beagle Board - Android/Linux
+Display?
+
+or 
+
+Sensor Unit
+Arduino
+Blue Tooth
+Android App/iOS App
